@@ -1,0 +1,5 @@
+2025-05-11 14:43:47 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-11 14:43:47 - Graceful shutdown complete
+2025-05-11 14:43:47 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-11 14:43:47 - HikariPool-1 - Shutdown initiated...
+2025-05-11 14:43:47 - HikariPool-1 - Shutdown completed.
